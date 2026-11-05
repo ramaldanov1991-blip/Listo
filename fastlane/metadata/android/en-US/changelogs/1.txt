@@ -1,0 +1,1 @@
+First release: formatted notes and home screen note widgets in 4 sizes.

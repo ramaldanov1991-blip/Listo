@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Listo</string>
+    <string name="widget_label">Listo · средняя 2×2</string>
+    <string name="widget_small">Listo · маленькая 2×1</string>
+    <string name="widget_wide">Listo · широкая 4×2</string>
+    <string name="widget_large">Listo · большая 4×4</string>
+    <string name="widget_description">Листочек с заметкой на главном экране</string>
+</resources>

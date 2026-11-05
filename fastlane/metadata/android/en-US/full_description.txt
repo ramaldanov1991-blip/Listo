@@ -1,0 +1,10 @@
+Listo is a simple, beautiful sticky-notes app that lives right on your home screen.
+
+<ul>
+<li>Home screen note widgets in 4 sizes</li>
+<li>Bold, italic, underline and strikethrough</li>
+<li>Bulleted lists, 7 note colours, search, autosave</li>
+<li>Dark theme</li>
+</ul>
+
+No sign-up, no ads, no data collection and no internet permission — your notes stay on your phone.
