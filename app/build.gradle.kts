@@ -18,7 +18,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.ruslan.notes"
+        applicationId = "com.listo.app"
         minSdk = 24
         targetSdk = 37
         versionCode = 1
